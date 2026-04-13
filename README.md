@@ -11,21 +11,19 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
+
+### 💻 Técnicas
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat&logo=microsoftsqlserver)
+![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=flat&logo=dbeaver)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 
-*(Personaliza con tus tecnologías)*
+### ⚙️ Herramientas
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira)
 
----
-
-## 📊 Estadísticas de GitHub
-![Tus stats](https://github-readme-stats.vercel.app/api?username=heviahxc&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heviahxc&layout=compact&theme=tokyonight)
-
----
+### 🤝 Habilidades
+![Atención al Cliente](https://img.shields.io/badge/-Atención%20al%20Cliente-black?style=flat&logo=handshake)
 
 
 ## 🌐 Conecta conmigo
